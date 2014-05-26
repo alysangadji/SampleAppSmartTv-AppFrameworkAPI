@@ -1,0 +1,33 @@
+#SceneScene2{
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 960px;
+	height : 540px;
+	background-color : #ff0000;
+	background-image : url('');
+}
+#SceneScene2 #svecLabel_yhij{
+	position : absolute;
+	font-size : 36pt;
+	color : #ffffff;
+	left : 80px;
+	top : 140px;
+	width : 281px;
+}
+#SceneScene2 #svecLabel_qbhc{
+	position : absolute;
+	font-size : 14pt;
+	color : #ffffff;
+	left : 110px;
+	top : 190px;
+	width : 81px;
+}
+#SceneScene2 #svecLabel_c3nr{
+	position : absolute;
+	font-size : 14pt;
+	color : #ffffff;
+	left : 270px;
+	top : 190px;
+	width : 541px;
+}
